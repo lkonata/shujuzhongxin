@@ -17,8 +17,8 @@
     "sites" : [
             
         {
-            "key" : "py",
-            "name" : "py接口(打开储存权限)⬇",
+            "key" : "首页",
+            "name" : "请选择首页或直接搜索",
             "type" : 3,
             "api" : "",
             "searchable" : 1,
